@@ -1,0 +1,26 @@
+/*
+Theme Name: Child Customizr
+Version: 1.0
+Description: A child theme of Customizr
+Template: customizr
+*/
+
+@import url("../customizr/style.css");
+
+body {
+background-color: white;
+}
+
+#content {
+color: black;
+font-family: serif;
+font-size: 20px;
+align-content: center;
+}
+
+#post-85 {
+font-family: serif;
+color: black;
+}
+
+
